@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Which pitcher won the National League Cy Young in 2009?",
+    "a1": "Adam Wainwright",
+    "a2": "Tim Lincecum",
+    "a3": "Clayton Kershaw",
+    "correct": 1
+  },
+  {
+    "question": "Which pitcher threw the hardest fastball in an MLB game?",
+    "a1": "Jordan Hicks",
+    "a2": "Randy Johnson",
+    "a3": "Aroldis Chapman",
+    "correct": 2
+  },
+  {
+    "question": "Which player has hit the most home runs of all time?",
+    "a1": "Barry Bonds",
+    "a2": "Willie Mays",
+    "a3": "Hank Aaron",
+    "correct": 0
+  },
+  {
+    "question": "Which pitcher threw the most recent perfect game in MLB history?",
+    "a1": "Matt Cain",
+    "a2": "Clayton Kershaw",
+    "a3": "Felix Hernandez",
+    "correct": 2
+  },
+  {
+    "question": "Which player won the 2020 American League MVP?",
+    "a1": "Mike Trout",
+    "a2": "Jose Abreu",
+    "a3": "Shohei Ohtani",
+    "correct": 1
+  },
+  {
+    "question": "Which player won the 2020 National League MVP?",
+    "a1": "Freddie Freeman",
+    "a2": "Fernando Tatis Jr.",
+    "a3": "Mookie Betts",
+    "correct": 0
+  },
+  {
+    "question": "What is the oldest MLB franchise?",
+    "a1": "St. Louis Cardinals",
+    "a2": "Pittsburgh Pirates",
+    "a3": "Cincinatti Reds",
+    "correct": 2
+  },
+  {
+    "question": "What is the oldest park in the MLB?",
+    "a1": "Camden Yards",
+    "a2": "Fenway Park",
+    "a3": "Wrigley Field",
+    "correct": 1
+  },
+  {
+    "question": "Which of the following players won MVP and Rookie of the Year in the same year?",
+    "a1": "Barry Bonds",
+    "a2": "Mike Trout",
+    "a3": "Ichiro Suzuki",
+    "correct": 2
+  },
+  {
+    "question": "How many splash hits have there been at Oracle Park (SF Giants stadium)?",
+    "a1": "53",
+    "a2": "17",
+    "a3": "91",
+    "correct": 2
+  },
+  {
+    "question": "Which player leads the league in OPS this year?",
+    "a1": "Shohei Ohtani",
+    "a2": "Bryce Harper",
+    "a3": "Fernando Tatis Jr.",
+    "correct": 1
+  },
+  {
+    "question": "Which player hit the most home runs in a season for a catcher?",
+    "a1": "Johnny Bench",
+    "a2": "Buster Posey",
+    "a3": "Salvador Perez",
+    "correct": 2
+  },
+  {
+    "question": "Which player leads the league in OBP this year?",
+    "a1": "Trea Turner",
+    "a2": "Juan Soto",
+    "a3": "Shohei Ohtani",
+    "correct": 1
+  },
+  {
+    "question": "Who has the most stolen bases of all time?",
+    "a1": "Rickey Henderson",
+    "a2": "Lou Brock",
+    "a3": "Billy Hamilton",
+    "correct": 0
+  },
+  {
+    "question": "Which puerto rican born player is considered one of the most influential baseball players of all time?",
+    "a1": "Francisco Lindor",
+    "a2": "Yadier Molina",
+    "a3": "Roberto Clemente",
+    "correct": 2
+  }
+]
