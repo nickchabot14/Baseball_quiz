@@ -2,9 +2,13 @@ package com.chabot.quiz
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import android.widget.Button
 import android.widget.TextView
+import com.google.gson.Gson
+import com.google.gson.reflect.TypeToken
 
+val TAG = "MainActivity"
 lateinit var questionText : TextView
 lateinit var answerX : Button
 lateinit var answerY : Button
@@ -13,6 +17,18 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        val inputStream = resources.openRawResource(R.raw.questions)
+        val jsonText = inputStream.bufferedReader().use {
+            it.readText()
+        }
+        Log.d(TAG, "OnCreate: $jsonText")
+
+
+
+        val gson = Gson()
+        val type = object : TypeToken<List<Questions>>() { }.type
+        val question = gson.fromJson<List<Questions>>(jsonText, type)
+        Log.d(TAG, "onCreate: \n${question.toString()}")
     }
 
     private fun wirewidgets()                                            {
@@ -22,8 +38,6 @@ class MainActivity : AppCompatActivity() {
         answerZ = findViewById(R.id.answerZ                                                                                                                                                                                                                                                                                                                                                                                                                                                   )
     }
 
-    data class Questions(
-        var t:String, var a1: String, var a2: String, var a3: String, var correct: Int
-    )
+
 
 }
