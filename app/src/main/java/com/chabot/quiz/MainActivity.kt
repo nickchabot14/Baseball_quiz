@@ -15,6 +15,7 @@ lateinit var answerY : Button
 lateinit var answerZ : Button
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
+        wirewidgets()
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         val inputStream = resources.openRawResource(R.raw.questions)
