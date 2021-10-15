@@ -1,20 +1,20 @@
 package com.chabot.quiz
 
-class Quiz(var Questions: List<Questions>) {
+class Quiz(var questions: List<question>) {
     var score = 0
-    var index = 0
+    var index = -1
 
     fun addquestions(): Boolean {
-        return index <= Questions.size
+        return index <= questions.size
     }
 
     fun score(x:Int){
-        if(x == Questions[index].correct)
+        if(x == questions[index].correct)
             score++
     }
 
-    fun getnextQuestion() : Questions{
+    fun getnextQuestion() : question{
         index++
-        return Questions[index]
+        return questions[index]
     }
 }

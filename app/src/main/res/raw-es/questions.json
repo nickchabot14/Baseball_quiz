@@ -1,0 +1,107 @@
+[
+  {
+    "question": "¿Qué lanzador ganó el Cy Young de la Liga Nacional en 2009?",
+    "a1": "Adam Wainwright",
+    "a2": "Tim Lincecum",
+    "a3": "Clayton Kershaw",
+    "correct": 1
+  },
+  {
+    "question": "¿Qué lanzador lanzó la bola rápida más dura en un juego de MLB?",
+    "a1": "Jordan Hicks",
+    "a2": "Randy Johnson",
+    "a3": "Aroldis Chapman",
+    "correct": 2
+  },
+  {
+    "question": "¿Qué jugador ha bateado más jonrones de todos los tiempos?",
+    "a1": "Barry Bonds",
+    "a2": "Willie Mays",
+    "a3": "Hank Aaron",
+    "correct": 0
+  },
+  {
+    "question": "¿Qué lanzador lanzó el juego perfecto más reciente en la historia de la MLB?",
+    "a1": "Matt Cain",
+    "a2": "Clayton Kershaw",
+    "a3": "Felix Hernandez",
+    "correct": 2
+  },
+  {
+    "question": "¿Qué jugador ganó el MVP de la Liga Americana 2020?",
+    "a1": "Mike Trout",
+    "a2": "Jose Abreu",
+    "a3": "Shohei Ohtani",
+    "correct": 1
+  },
+  {
+    "question": "¿Qué jugador ganó el MVP de la Liga Nacional 2020?",
+    "a1": "Freddie Freeman",
+    "a2": "Fernando Tatis Jr.",
+    "a3": "Mookie Betts",
+    "correct": 0
+  },
+  {
+    "question": "¿Cuál es la franquicia más antigua de MLB?",
+    "a1": "St. Louis Cardinals",
+    "a2": "Pittsburgh Pirates",
+    "a3": "Cincinatti Reds",
+    "correct": 2
+  },
+  {
+    "question": "¿Cuál es el parque más antiguo de la MLB?",
+    "a1": "Camden Yards",
+    "a2": "Fenway Park",
+    "a3": "Wrigley Field",
+    "correct": 1
+  },
+  {
+    "question": "¿Cuál de los siguientes jugadores ganó MVP y Novato del Año en el mismo año?",
+    "a1": "Barry Bonds",
+    "a2": "Mike Trout",
+    "a3": "Ichiro Suzuki",
+    "correct": 2
+  },
+  {
+    "question": "¿Cuántos golpes de salpicaduras ha habido en Oracle Park (estadio SF Giants)?",
+    "a1": "53",
+    "a2": "17",
+    "a3": "91",
+    "correct": 2
+  },
+  {
+    "question": "¿Qué jugador tiene el OPS más alto esta temporada?",
+    "a1": "Shohei Ohtani",
+    "a2": "Bryce Harper",
+    "a3": "Fernando Tatis Jr.",
+    "correct": 1
+  },
+  {
+    "question": "¿Qué jugador bateó más jonrones en una temporada para un receptor?",
+    "a1": "Johnny Bench",
+    "a2": "Buster Posey",
+    "a3": "Salvador Perez",
+    "correct": 2
+  },
+  {
+    "question": "¿Qué jugador lidera la liga en OBP este año?",
+    "a1": "Trea Turner",
+    "a2": "Juan Soto",
+    "a3": "Shohei Ohtani",
+    "correct": 1
+  },
+  {
+    "question": "¿Quién tiene las bases más robadas de todos los tiempos?",
+    "a1": "Rickey Henderson",
+    "a2": "Lou Brock",
+    "a3": "Billy Hamilton",
+    "correct": 0
+  },
+  {
+    "question": "¿Qué jugador nacido en Puerto Rico es considerado uno de los jugadores de béisbol más influyentes de todos los tiempos?",
+    "a1": "Francisco Lindor",
+    "a2": "Yadier Molina",
+    "a3": "Roberto Clemente",
+    "correct": 2
+  }
+]

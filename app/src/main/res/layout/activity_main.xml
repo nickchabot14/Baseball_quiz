@@ -11,7 +11,7 @@
         android:layout_width="206dp"
         android:layout_height="212dp"
         android:text="Question 1"
-        android:textSize="34sp"
+        android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.619"
         app:layout_constraintLeft_toLeftOf="parent"
